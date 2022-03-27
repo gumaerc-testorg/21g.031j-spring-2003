@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 529d260a-9f6d-289d-6c8e-380941a88b30
 resourcetype: Document
 title: 06 Manifestos
 uid: 7acb2286-9cfd-0c51-3d7c-e2cf74612ebc

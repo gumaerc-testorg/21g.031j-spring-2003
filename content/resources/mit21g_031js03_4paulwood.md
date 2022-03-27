@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 529d260a-9f6d-289d-6c8e-380941a88b30
 resourcetype: Document
 title: 04 Paul Wood
 uid: 64e00cce-0ad6-8fbe-2b61-cf8054120c0b

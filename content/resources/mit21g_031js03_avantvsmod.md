@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 529d260a-9f6d-289d-6c8e-380941a88b30
 resourcetype: Document
 title: Avant Garde vs. Moderism
 uid: da2f0d2f-8dbc-7a97-46e6-536ae0d9c1a0

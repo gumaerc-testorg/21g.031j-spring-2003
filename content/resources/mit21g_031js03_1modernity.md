@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 529d260a-9f6d-289d-6c8e-380941a88b30
 resourcetype: Document
 title: 01 Modernity and Modernization
 uid: 2b995188-a1d1-9ba6-5565-c5818da9382b
