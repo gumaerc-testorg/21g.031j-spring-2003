@@ -5,6 +5,7 @@ file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 08 Kitcsch
 uid: 0aa80c06-82f5-9d92-8c24-8ad3d1ed79f3
 ---
 This resource contains information regarding Kitcsch.
-

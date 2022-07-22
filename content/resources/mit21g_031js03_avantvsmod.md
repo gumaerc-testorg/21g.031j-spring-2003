@@ -5,6 +5,7 @@ file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Avant Garde vs. Moderism
 uid: da2f0d2f-8dbc-7a97-46e6-536ae0d9c1a0
 ---
 This resource contains information regarding 'Avant Garde vs. Moderism'.
-

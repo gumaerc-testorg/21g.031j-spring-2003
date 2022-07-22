@@ -5,6 +5,7 @@ file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 01 Modernity and Modernization
 uid: 2b995188-a1d1-9ba6-5565-c5818da9382b
 ---
 This resource contains information regarding Modernity and Modernization.
-

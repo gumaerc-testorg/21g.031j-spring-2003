@@ -5,6 +5,7 @@ file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 02 Futurists
 uid: b86693d2-86b1-03ac-f1c8-f6cd2340c54e
 ---
 This resource contains information regarding Futurists.
-

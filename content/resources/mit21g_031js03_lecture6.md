@@ -6,6 +6,7 @@ file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-sprin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Document6
 uid: d340fe43-017b-21d8-fbac-23349770985f
 ---
 This file contains information regarding topics in the avant-garde in literature and cinema.
-
