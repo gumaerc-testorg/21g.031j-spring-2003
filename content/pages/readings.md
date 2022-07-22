@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 794b3163-db60-c89d-bc31-f9143343d7d2
 ---
@@ -34,7 +38,7 @@ Sight and Sound
 
 Recordings of film and music will be made available to students. Students are expected to have viewed or listened to each work before the date of its discussion. Brief excerpts reviewed in class.
 
-This course also involves discussions of film and music, as outlined in the [course calendar]({{< baseurl >}}/pages/calendar). Students are expected to have viewed or listened to each work before the date of its discussion. Brief excerpts are reviewed in class.
+This course also involves discussions of film and music, as outlined in the {{% resource_link 6cd276c9-1ae0-ca24-31b4-e3bc732772f5 "course calendar" %}}. Students are expected to have viewed or listened to each work before the date of its discussion. Brief excerpts are reviewed in class.
 
 {{< tableopen >}}
 {{< theadopen >}}
