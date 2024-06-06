@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding topics in the avant-garde in
   literature and cinema.
 file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/d9f353cb7b2532bb8d6959bc6744e446_MIT21G_031JS03_lecture5.pdf
+file_size: 91550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
