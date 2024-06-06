@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Kitcsch.
 file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/0aa80c0682f59d928c248ad3d1ed79f3_MIT21G_031JS03_8kitcsch.pdf
+file_size: 92962
 file_type: application/pdf
 learning_resource_types:
 - Assignments
