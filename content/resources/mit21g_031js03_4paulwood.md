@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Paul Wood.
-file: /courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/64e00cce0ad68fbe2b61cf8054120c0b_MIT21G_031JS03_4paulwood.pdf
+file: /ol-ocw-studio-app/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/64e00cce0ad68fbe2b61cf8054120c0b_MIT21G_031JS03_4paulwood.pdf
 file_size: 139086
 file_type: application/pdf
 learning_resource_types:
